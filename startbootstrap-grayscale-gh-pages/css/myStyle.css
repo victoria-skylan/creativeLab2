@@ -1,0 +1,96 @@
+#theTitle {
+	color: white;
+	font-size: 80px;
+}
+#theForm {
+	border: #000000 solid 5px;
+	height: 13em;
+	padding-left: 2em;
+	padding-top: 2em;
+	margin-bottom: 2em;
+	margin-top: 0px;
+}
+#theAPIS {
+	padding-top: 5px;
+}
+
+label {
+	font-size: 20px;
+	padding-right: 20px;
+}
+
+input[type=text] {
+  width: 20%;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+  background-color: white;
+  background-image: url('searchicon.png');
+  background-position: 10px 10px; 
+  background-repeat: no-repeat;
+  background-size:  25px 25px; 
+  padding: 12px 20px 12px 40px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+input[type=text]:focus {
+	background:#FFFAFA;
+  width: 70%;
+}
+
+input[type=submit] {
+  background-color: RGB(79,131,127);
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 25px;
+  width: 30%; 
+}
+.thebutton {
+	text-align: center;
+}
+
+.resultImg {
+}
+.title {
+	padding-bottom: 15px;
+}
+.rec {
+	text-transform: capitalize;
+}
+#title2 {
+	text-transform: capitalize;
+}
+.theREC {
+	color: white;
+}
+.recInfo {
+	text-align: left;
+}
+#moreInfo {
+	padding-top: 20px;
+}
+.theFoodInfo {
+	margin-bottom: 20px !important;
+}
+#RecipeChange {
+	margin-bottom: 30px;
+}
+
+#credits { 
+	margin-top: 10px;
+	background-image: linear-gradient(#3F3F3F, #9E9E9E);
+	padding-bottom: 70px;
+}
+.theLogo {
+	margin-bottom: 15px !important;
+}
+.logo{
+	padding-bottom: 10px;
+	width: 50%;
+}
+
